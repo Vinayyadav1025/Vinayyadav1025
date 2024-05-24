@@ -1,3 +1,4 @@
+![log](https://github.com/Vinayyadav1025/Vinayyadav1025/blob/main/b.png)
 <h1 align="center">Hi 👋, I'm Vinay Yadav</h1>
 <h3 align="center">Software Engineering Student</h3>
 
