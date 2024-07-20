@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at **vinayyadavfzd29@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/15kGXks9j6NBPCiwNFOzuwaDmuEG5Ofjw/view?usp=drive_link)
+- 📄 [Resume](https://drive.google.com/file/d/1JsyUKa8Ok38ZZkqTf-ZoUd1TRf7yEzmi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
