@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-- 🔭 My current project is [Youtube-X](https://github.com/Vinayyadav1025/Youtube-X)
+- 🔭 My current project is [CodeVersePlus](https://github.com/Vinayyadav1025/CodeVersePlus)
 
 - 🌱 I am currently pursuing a **Bachelor of Technology**
 
