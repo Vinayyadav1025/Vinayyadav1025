@@ -6,7 +6,7 @@
 
 - 🔭 My Major project is [CodeVersePlus](https://github.com/Vinayyadav1025/CodeVersePlus)
 
-- 🌱 I have completed a **Bachelor of Technology**
+- 🌱 I have completed **Bachelor of Technology** in **Computer Science Engineering**.
 
 - 💬 Ask me about **MERN stack, AWS, IoT, and Competitive Coding**
 
